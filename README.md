@@ -13,17 +13,15 @@
 </br>
 </br>
 
+Passionate about computer science, especially programming in all its diversity and the Agile mindset.
+I would like to use my knowledge in the field of programming and project management.
 
-
-Passionné d'informatique notamment de la programmation dans toute sa diversité et de l'état d'esprit Agile.
-Je souhaite mettre à profit mes connaissances dans le cadre de la programmation et la gestion de projet.
-
-Étudiant en seconde année à EPITECH:
-- Maîtrise du C, C++, Python, C#
-- Maîtrise du debug, des tests unitaires et fonctionnels
-- Gestion du DevOps: Docker, GitAction, Jenkins
-- Méthodes d'apprentissage rigoureuses développées au sein de l'établissement.
-Adaptable à tout type de langage de programmation et de projet. 
+Second year student at EPITECH:
+- Mastery of C, C++, Python, C#
+- Mastery of debugging, unit and functional tests
+- DevOps management: Docker, GitAction, Jenkins
+- Rigorous learning methods developed within the institution.
+Adaptable to any type of programming language and project. 
 
 **Contact me :**
 - 📧 Email : mathias.ressort@epitech.eu
