@@ -6,7 +6,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Ydos2?label=Follow&style=social)
 
-[<img align="left" alt="Ydos2 | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="Ydos2 | Email" width="22px" src="https://i.imgur.com/qCF3lzb.png" />][email]
 [<img align="left" alt="Ydos2 | Linkedkin" width="22px" src="https://i.imgur.com/s6HbIpZ.png" />][linkedin]
 
