@@ -15,7 +15,7 @@
 Passionate about computer science, especially programming in all its diversity and the Agile mindset.
 I would like to use my knowledge in the field of programming and project management.
 
-Second year student at EPITECH:
+Third year student at EPITECH:
 - Mastery of C, C++, Python, C#
 - Mastery of debugging, unit and functional tests
 - DevOps management: Docker, GitAction, Jenkins
